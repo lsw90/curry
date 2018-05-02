@@ -1,0 +1,2 @@
+insert into `user` (`username`,`phone`,`email`,`password`,`gmt_created`,`gmt_modified`)
+  values('zhangsan','13589875443','zhangsan@gmail.com','$2a$10$adUdPv4Dml96CAakC8NXX.y6vVSbMC/8m16qK/BCJl3mU6bmqVAZ2','2008-05-02 14:01:06', '2008-05-02 14:01:06');
